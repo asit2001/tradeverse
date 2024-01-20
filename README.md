@@ -43,3 +43,5 @@ Make sure you have the following installed on your machine:
 ## Accessing the Application
 
 Once the Docker container is running, you can access the Tradeverse React App in your web browser at <http://localhost:8080>.
+
+hosted link: <https://tradeverse-liard.vercel.app/>
